@@ -1,0 +1,26 @@
+body {
+  background-color: #dafffb;
+  color: #04364a;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+input {
+  outline: none;
+  border-radius: 20px;
+  padding: 1rem;
+}
+
+button {
+  border-radius: 20px;
+  padding: 1rem;
+  background-color: #176b87;
+  color: white;
+}
